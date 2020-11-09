@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="products.xsl"?>
+
+<!-- products information from this website https://www.komplett.ie/components/ -->
+<products>
+
+    <product>
+        <category>Processors</category>
+        <name code="123-10">AMD Ryzen 5 3600</name>
+        <description>New 3rd Gen AMD Ryzen™ Processors,More Performance,
+        1 Exclusive Technologies,Designed to Win.</description>
+        <quantity>36</quantity>
+        <unit_price>225.5</unit_price>
+    </product>
+
+    <product>
+        <category>Processors</category>
+        <name code="123-05">Intel Core i5-10600KA</name>
+        <description>Socket LGA 1200, Hexa-core-processor, 4,1 GHz clock speed, Intel® UHD, Graphics 630, 12 MB Cache</description>
+        <quantity>16</quantity>
+        <unit_price>299.0</unit_price>
+    </product>
+
+    <product>
+        <category>RAM</category>
+        <name code="125-06">Corsair Vengeance LPX - 16 GB - PC4-25600 - DIMM</name>
+        <description>DIMM module, 2 x 8 GB RAM, Cas Latency 16, DDR4, 3200 MHz clock speed.
+        </description>
+        <quantity>43</quantity>
+        <unit_price>85.50</unit_price>
+    </product>
+
+    <product>
+        <category>Motherboard</category>
+        <name code="120-01">MSI B450M-A PRO MAX</name>
+        <description>Socket AM4, AMD X470 chipset, ATX format, 4x DDR4, 2x M.2
+        </description>
+        <quantity>58</quantity>
+        <unit_price>139.50</unit_price>
+    </product>
+
+    <product>
+        <category>Motherboard</category>
+        <name code="120-02">Gigabyte X570 UD</name>
+        <description>Socket AM4, AMD X570 chipset, ATX format, 4x DDR4 geheugensloten, 1x M.2
+        </description>
+        <quantity>67</quantity>
+        <unit_price>179.90</unit_price>
+    </product>
+
+    <!-- Add more products below -->
+
+
+</products>
+
